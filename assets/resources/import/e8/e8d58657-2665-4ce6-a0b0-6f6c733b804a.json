@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "daMdOwu5dCt70pL8LXYaa7"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "UI-11",
+      "rect": [
+        0,
+        0,
+        3866,
+        5382
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        3866,
+        5382
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
